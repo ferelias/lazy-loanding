@@ -22,3 +22,5 @@ Además, se utilizó HTML, CSS y JavaScript para diseñar y desarrollar la pági
         <img src="assets/vista.png"></img>
     </div>
 </div>
+
+vista del proyecto https://ferelias.github.io/lazy-loanding/
