@@ -1,6 +1,6 @@
 <div>
     <div style="width: 150px; margin: 0 auto;">
-        <img src="assets/gitlab.svg"></img>
+        <img style="margin: 0 auto;" src="assets/gitlab.svg"></img>
     </div>
 </div>
 
